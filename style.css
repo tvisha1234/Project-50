@@ -1,0 +1,88 @@
+body{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8jrA1J9NjytCGzYPlYWyxKmC-PNlp_QzUSg&usqp=CAU");
+}
+h3{
+    font-family: fantasy;
+    color: blueviolet;
+}
+
+h1{
+    font-family: monospace;
+    color: rgb(255, 255, 255);
+    size: unset;
+    
+}
+h4{
+    font-family: BlinkMacSystemFont;
+}
+
+ul{
+    font-family: cursive;
+}
+
+img{
+    border:solid;
+    border-style: dotted;
+    border-color: rgb(247, 243, 255)
+}
+#header1{
+    display: flex;
+    justify-content: space-around;
+    border:solid;
+    border-style: dashed;
+}
+#sub1{
+    background-color:rgb(153, 206, 255);
+}
+
+#sub2{
+    background-color: rgb(62, 200, 241);
+}
+
+#headPhoto{
+    display: flex;
+    justify-content: space-around;
+}
+
+#header2{
+    display: flex;
+    justify-content: space-around;
+    border:solid;
+    border-style: dashed;
+}
+
+#header{
+    color: cornsilk;
+}
+
+#header3{
+    display: flex;
+    justify-content: space-around;
+    border:solid;
+    border-style: dashed;
+}
+
+#header4{
+    display: flex;
+    justify-content: space-around;
+    border:solid;
+    border-style: dashed;
+}
+
+#header5{
+    display: flex;
+    justify-content: space-around;
+    border:solid;
+    border-style: dashed;
+}
+
+#header6{
+    display: flex;
+    justify-content: space-around;
+    border:solid;
+    border-style: dashed;
+}
+
+#title{
+    font-family: fantasy;
+}
